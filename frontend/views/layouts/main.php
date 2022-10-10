@@ -78,7 +78,7 @@ AppAsset::register($this);
                     <div id="site-logo" class="clearfix">
                         <div id="site-log-inner">
                             <a href="<?= Url::to(['site/index'])?>" rel="home" class="main-logo">
-                                <img src="<?= Url::to(['../frontend/web/assets_tamplet/img/logo-small.png'])?>" alt="Autora" width="186" height="39" data-retina="assets/img/logo-small@2x.png" data-width="186" data-height="39">
+                                <img src="<?= Url::to(['../frontend/web/assets_tamplet/img/logo-small.png'])?>" alt="DelemarGroup" width="186" height="39" data-retina="<?= Url::to(['../frontend/web/assets_tamplet/img/logo-small@2x.png'])?>" data-width="186" data-height="39">
                             </a>
                         </div>
                     </div><!-- /#site-logo -->
