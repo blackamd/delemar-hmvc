@@ -298,52 +298,52 @@ use yii\helpers\Url;
                                 </div><!-- /.col-md-12 -->
                             </div><!-- /.row -->
 
-                            <div class="row">
-                                <div class="col-md-4">
-                                    <div class="themesflat-content-box clearfix" data-margin="0 5px 0 5px" data-mobilemargin="0 0 0 0">
-                                        <div class="themesflat-icon-box icon-top align-center has-width w95 circle light-bg accent-color style-1 clearfix">
-                                            <div class="icon-wrap">
-                                                <i class="autora-icon-quality"></i>
-                                            </div>
-                                            <div class="text-wrap">
-                                                <h5 class="heading">BEST QUALITY</h5>
-                                                <div class="sep clearfix"></div>
-                                                <p class="sub-heading">Delemar Group are committed to meeting the highest quality standards without compromising our safety culture.</p>
-                                            </div>
-                                        </div><!-- /.themesflat-icon-box -->
-                                    </div><!-- /.themesflat-content-box -->
-                                </div><!-- /.col-md-4 -->
-                                <div class="col-md-4">
-                                    <div class="themesflat-spacer clearfix" data-desktop="0" data-mobile="0" data-smobile="35"></div>
-                                    <div class="themesflat-content-box clearfix" data-margin="0 5px 0 5px" data-mobilemargin="0 0 0 0">
-                                        <div class="themesflat-icon-box icon-top align-center has-width w95 circle light-bg accent-color style-1 clearfix">
-                                            <div class="icon-wrap">
-                                                <i class="autora-icon-time"></i>
-                                            </div>
-                                            <div class="text-wrap">
-                                                <h5 class="heading">ON TIME</h5>
-                                                <div class="sep clearfix"></div>
-                                                <p class="sub-heading">At our company, we respect the customer’s time and schedule and always complete the projects on timely fashion way.</p>
-                                            </div>
-                                        </div><!-- /.themesflat-icon-box -->
-                                    </div><!-- /.themesflat-content-box -->
-                                </div><!-- /.col-md-4 -->
-                                <div class="col-md-4">
-                                    <div class="themesflat-spacer clearfix" data-desktop="0" data-mobile="0" data-smobile="35"></div>
-                                    <div class="themesflat-content-box clearfix" data-margin="0 5px 0 5px" data-mobilemargin="0 0 0 0">
-                                        <div class="themesflat-icon-box icon-top align-center has-width w95 circle light-bg accent-color style-1 clearfix">
-                                            <div class="icon-wrap">
-                                                <i class="autora-icon-author"></i>
-                                            </div>
-                                            <div class="text-wrap">
-                                                <h5 class="heading">EXPERIENCED</h5>
-                                                <div class="sep clearfix"></div>
-                                                <p class="sub-heading">As the saying goes practice makes perfect. With our years of experience you can bet on us to get the job done exactly to your specifications.</p>
-                                            </div>
-                                        </div><!-- /.themesflat-icon-box -->
-                                    </div><!-- /.themesflat-content-box -->
-                                </div><!-- /.col-md-4 -->
-                            </div><!-- /.row -->
+<!--                            <div class="row">-->
+<!--                                <div class="col-md-4">-->
+<!--                                    <div class="themesflat-content-box clearfix" data-margin="0 5px 0 5px" data-mobilemargin="0 0 0 0">-->
+<!--                                        <div class="themesflat-icon-box icon-top align-center has-width w95 circle light-bg accent-color style-1 clearfix">-->
+<!--                                            <div class="icon-wrap">-->
+<!--                                                <i class="autora-icon-quality"></i>-->
+<!--                                            </div>-->
+<!--                                            <div class="text-wrap">-->
+<!--                                                <h5 class="heading">BEST QUALITY</h5>-->
+<!--                                                <div class="sep clearfix"></div>-->
+<!--                                                <p class="sub-heading">Delemar Group are committed to meeting the highest quality standards without compromising our safety culture.</p>-->
+<!--                                            </div>-->
+<!--                                        </div>-->
+<!--                                    </div>-->
+<!--                                </div>-->
+<!--                                <div class="col-md-4">-->
+<!--                                    <div class="themesflat-spacer clearfix" data-desktop="0" data-mobile="0" data-smobile="35"></div>-->
+<!--                                    <div class="themesflat-content-box clearfix" data-margin="0 5px 0 5px" data-mobilemargin="0 0 0 0">-->
+<!--                                        <div class="themesflat-icon-box icon-top align-center has-width w95 circle light-bg accent-color style-1 clearfix">-->
+<!--                                            <div class="icon-wrap">-->
+<!--                                                <i class="autora-icon-time"></i>-->
+<!--                                            </div>-->
+<!--                                            <div class="text-wrap">-->
+<!--                                                <h5 class="heading">ON TIME</h5>-->
+<!--                                                <div class="sep clearfix"></div>-->
+<!--                                                <p class="sub-heading">At our company, we respect the customer’s time and schedule and always complete the projects on timely fashion way.</p>-->
+<!--                                            </div>-->
+<!--                                        </div>-->
+<!--                                    </div>-->
+<!--                                </div>-->
+<!--                                <div class="col-md-4">-->
+<!--                                    <div class="themesflat-spacer clearfix" data-desktop="0" data-mobile="0" data-smobile="35"></div>-->
+<!--                                    <div class="themesflat-content-box clearfix" data-margin="0 5px 0 5px" data-mobilemargin="0 0 0 0">-->
+<!--                                        <div class="themesflat-icon-box icon-top align-center has-width w95 circle light-bg accent-color style-1 clearfix">-->
+<!--                                            <div class="icon-wrap">-->
+<!--                                                <i class="autora-icon-author"></i>-->
+<!--                                            </div>-->
+<!--                                            <div class="text-wrap">-->
+<!--                                                <h5 class="heading">EXPERIENCED</h5>-->
+<!--                                                <div class="sep clearfix"></div>-->
+<!--                                                <p class="sub-heading">As the saying goes practice makes perfect. With our years of experience you can bet on us to get the job done exactly to your specifications.</p>-->
+<!--                                            </div>-->
+<!--                                        </div>-->
+<!--                                    </div>-->
+<!--                                </div>-->
+<!--                            </div>-->
 
                             <div class="row">
                                 <div class="col-md-12">
@@ -354,7 +354,7 @@ use yii\helpers\Url;
                                     <div class="themesflat-spacer clearfix" data-desktop="73" data-mobile="60" data-smobile="60"></div>
                                 </div>
                             </div>
-                        </div><!-- /.container -->
+                        </div>
                     </div>
                     <!-- END ICONBOX -->
 

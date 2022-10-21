@@ -903,6 +903,7 @@
 -------------------------------------------------------------- */
 .detail-inner-wrap { width: 100%; }
 .detail-inner-wrap .detail-info { float: left; margin-right: 35.5px; width: 28.7%; }
+.detail-inner-wrap .detail-table { margin-right: 35.5px; }
 .detail-inner-wrap .detail-gallery { overflow: hidden; }
 
 .detail-inner-wrap .list-info { margin: 15px 0px 0px 0px; }
@@ -919,6 +920,7 @@
 
 @media only screen and (max-width: 991px) {
 	.detail-inner-wrap .detail-info { width: 100%; float: none; margin: 0px; }
+	.detail-inner-wrap .detail-table { width: 100%; float: none; margin: 0px; }
 	.detail-inner-wrap .list-info.has-icon.icon-left span.right { left: 80%; }
 }
 

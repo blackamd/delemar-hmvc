@@ -115,10 +115,10 @@ AppAsset::register($this);
                             <li class="menu-item menu-item-has-children">
                                 <a href="<?= Url::to(['site/factories'])?>">FACTORIES</a>
                                 <ul class="sub-menu">
-                                    <li class="menu-item"><a href="<?= Url::to(['site/aluminum-coating'])?>">ALUMINUM COATING</a></li>
-                                    <li class="menu-item"><a href="<?= Url::to(['site/aluminum-die-shop'])?>">ALUMINUM DIE SHOP</a></li>
                                     <li class="menu-item"><a href="<?= Url::to(['site/aluminum-production'])?>">ALUMINUM PRODUCTION</a></li>
                                     <li class="menu-item"><a href="<?= Url::to(['site/processed-glass'])?>">PROCESSED GLASS</a></li>
+                                    <li class="menu-item"><a href="<?= Url::to(['site/aluminum-coating'])?>">ALUMINUM SERVICE</a></li>
+                                    <li class="menu-item"><a href="<?= Url::to(['site/aluminum-die-shop'])?>">ALUMINUM DIE SHOP</a></li>
                                 </ul>
                             </li>
                             <li class="menu-item menu-item-has-children">
