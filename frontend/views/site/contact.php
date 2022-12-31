@@ -58,10 +58,10 @@
                                                 <span class="inner">Head Office</span>
                                             </li>
                                             <li class="item-title">
-                                                <span class="inner">Colombia</span>
+                                                <span class="inner">ABOU RAWASH</span>
                                             </li>
                                             <li class="item-title">
-                                                <span class="inner">Mexico</span>
+                                                <span class="inner">6TH OF OCTOBER</span>
                                             </li>
                                         </ul>
 
@@ -72,21 +72,18 @@
                                                         <li class="clearfix">
                                                             <div class="inner">
                                                                 <span class="fa fa-map-marker"></span>
-                                                                <span class="text">PO BOX 16122 COLLINS STREET WEST VICTORIA, NEWYORK </span>
+                                                                <span class="text">100/113 Industrial Area, Alex Desert Road,Giza, Egypt, Zip Code: 12677 </span>
                                                             </div>
                                                         </li>
 
                                                         <li class="clearfix">
                                                             <div class="inner">
                                                                 <span class="fa fa-phone"></span>
-                                                                <span class="text">CALL US : (+61) 3 8376 6284</span>
-                                                            </div>
-                                                        </li>
-
-                                                        <li class="clearfix">
-                                                            <div class="inner">
-                                                                <span class="fa fa-envelope"></span>
-                                                                <span class="text">EMAIL : SUPPORT@NICHE_THEME</span>
+                                                                <span class="text">Mobile : (+20) 110 311 1261</span><br>
+                                                                <span class="text">Mobile : (+20) 110 311 1262</span><br>
+                                                                <span class="text">Mobile : (+20) 110 311 1263</span><br>
+                                                                <span class="text">Telephone : (02) 35394037</span><br>
+                                                                <span class="text">Telephone : (02) 35394032</span>
                                                             </div>
                                                         </li>
                                                     </ul>
@@ -98,21 +95,18 @@
                                                         <li class="clearfix">
                                                             <div class="inner">
                                                                 <span class="fa fa-map-marker"></span>
-                                                                <span class="text">PO BOX 16122 COLLINS STREET WEST VICTORIA, NEWYORK </span>
+                                                                <span class="text">100/113 Industrial Area, Alex Desert Road,Giza, Egypt, Zip Code: 12677 </span>
                                                             </div>
                                                         </li>
 
                                                         <li class="clearfix">
                                                             <div class="inner">
                                                                 <span class="fa fa-phone"></span>
-                                                                <span class="text">CALL US : (+61) 3 8376 6284</span>
-                                                            </div>
-                                                        </li>
-
-                                                        <li class="clearfix">
-                                                            <div class="inner">
-                                                                <span class="fa fa-envelope"></span>
-                                                                <span class="text">EMAIL : SUPPORT@THEMESFLAT.COM</span>
+                                                                <span class="text">Mobile : (+20) 110 311 1261</span><br>
+                                                                <span class="text">Mobile : (+20) 110 311 1262</span><br>
+                                                                <span class="text">Mobile : (+20) 110 311 1263</span><br>
+                                                                <span class="text">Telephone : (02) 35394037</span><br>
+                                                                <span class="text">Telephone : (02) 35394032</span>
                                                             </div>
                                                         </li>
                                                     </ul>
@@ -124,23 +118,22 @@
                                                         <li class="clearfix">
                                                             <div class="inner">
                                                                 <span class="fa fa-map-marker"></span>
-                                                                <span class="text">PO BOX 16122 COLLINS STREET WEST VICTORIA, NEWYORK </span>
+                                                                <span class="text"><strong>6TH OF OCTOBER CITY</strong> Industrial Zone, North Extensions IDG, Plot M17 <span class="sl">Giza, Egypt P.O.BOX 2, Zip Code: 12581</span></span>
                                                             </div>
                                                         </li>
 
                                                         <li class="clearfix">
                                                             <div class="inner">
                                                                 <span class="fa fa-phone"></span>
-                                                                <span class="text">CALL US : (+61) 3 8376 6284</span>
+                                                                <span class="text">Mobile : (+20) 110 311 1261</span><br>
+                                                                <span class="text">Mobile : (+20) 110 311 1262</span><br>
+                                                                <span class="text">Mobile : (+20) 110 311 1263</span><br>
+                                                                <span class="text">Telephone : (02) 35394037</span><br>
+                                                                <span class="text">Telephone : (02) 35394032</span>
                                                             </div>
                                                         </li>
 
-                                                        <li class="clearfix">
-                                                            <div class="inner">
-                                                                <span class="fa fa-envelope"></span>
-                                                                <span class="text">EMAIL : SUPPORT@THEMESFLAT.COM</span>
-                                                            </div>
-                                                        </li>
+
                                                     </ul>
                                                 </div>
                                             </div><!-- /.tab-content -->
