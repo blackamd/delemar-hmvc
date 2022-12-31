@@ -116,19 +116,19 @@ AppAsset::register($this);
                                 <a href="<?= Url::to(['site/factories'])?>">FACTORIES</a>
                                 <ul class="sub-menu">
                                     <li class="menu-item"><a href="<?= Url::to(['site/aluminum-production'])?>">ALUMINUM PRODUCTION</a></li>
+                                    <li class="menu-item"><a href="<?= Url::to(['site/aluminum-die-shop'])?>">ALUMINUM DIE SHOP</a></li>
                                     <li class="menu-item"><a href="<?= Url::to(['site/processed-glass'])?>">PROCESSED GLASS</a></li>
                                     <li class="menu-item"><a href="<?= Url::to(['site/aluminum-coating'])?>">ALUMINUM SERVICE</a></li>
-                                    <li class="menu-item"><a href="<?= Url::to(['site/aluminum-die-shop'])?>">ALUMINUM DIE SHOP</a></li>
                                 </ul>
                             </li>
-                            <li class="menu-item menu-item-has-children">
-                                <a href="#">PROJECTS</a>
-                                <ul class="sub-menu">
-                                    <li class="menu-item"><a href="#">PROJECTS</a></li>
-                                    <li class="menu-item"><a href="#">PROJECTS FULL WIDTH</a></li>
-                                    <li class="menu-item"><a href="#">PROJECTS DETAIL</a></li>
-                                </ul>
-                            </li>
+<!--                            <li class="menu-item menu-item-has-children">-->
+<!--                                <a href="#">PROJECTS</a>-->
+<!--                                <ul class="sub-menu">-->
+<!--                                    <li class="menu-item"><a href="#">PROJECTS</a></li>-->
+<!--                                    <li class="menu-item"><a href="#">PROJECTS FULL WIDTH</a></li>-->
+<!--                                    <li class="menu-item"><a href="#">PROJECTS DETAIL</a></li>-->
+<!--                                </ul>-->
+<!--                            </li>-->
 <!--                            <li class="menu-item menu-item-has-children" >-->
 <!--                                <a href="page-testimonial.html">PAGE</a>-->
 <!--                                <ul class="sub-menu">-->
@@ -183,74 +183,82 @@ AppAsset::register($this);
                                 <img src="<?= Url::to(['../frontend/web/assets_tamplet/img/logo-white@2x.png'])?>" alt="Image" width="170" height="34">
                             </p>
 
-                            <p class="margin-bottom-15">We have over 15 years of experien able to help you 24 hours a day.</p>
+<!--                            <p class="margin-bottom-15">We have over 15 years of experien able to help you 24 hours a day.</p>-->
 
                             <ul>
                                 <li>
                                     <div class="inner">
                                         <span class="fa fa-map-marker"></span>
-                                        <span class="text">PO BOX 16122 COLLINS STREET <span class="sl">West Victoria, NewYork</span></span>
+                                        <span class="text"><strong>ABOU RAWASH</strong> 100/113 Industrial Area, Alex Desert Road, <span class="sl">Giza, Egypt, Zip Code: 12677</span></span>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="inner">
+                                        <span class="fa fa-map-marker"></span>
+                                        <span class="text"><strong>6TH OF OCTOBER CITY</strong> Industrial Zone, North Extensions IDG, Plot M17 <span class="sl">Giza, Egypt P.O.BOX 2, Zip Code: 12581</span></span>
                                     </div>
                                 </li>
 
                                 <li>
                                     <div class="inner">
                                         <span class="fa fa-phone"></span>
-                                        <span class="text">CALL US : (+61) 3 8376 6284</span>
+                                        <span class="text">Mobile : (+20) 110 311 1261</span><br>
+                                        <span class="text">Mobile : (+20) 110 311 1262</span><br>
+                                        <span class="text">Mobile : (+20) 110 311 1263</span><br>
+                                        <span class="text">Telephone : (02) 35394037</span><br>
+                                        <span class="text">Telephone : (02) 35394032</span>
                                     </div>
                                 </li>
 
-                                <li class="margin-top-7">
-                                    <div class="inner">
-                                        <span class=" font-size-14 fa fa-envelope"></span>
-                                        <span class="text">SUPPORT@NICHE_THEME</span>
-                                    </div>
-                                </li>
+<!--                                <li class="margin-top-7">-->
+<!--                                    <div class="inner">-->
+<!--                                        <span class=" font-size-14 fa fa-envelope"></span>-->
+<!--                                        <span class="text">SUPPORT@NICHE_THEME</span>-->
+<!--                                    </div>-->
+<!--                                </li>-->
                             </ul>
                         </div>
                     </div><!-- /.widget_text -->
                     <div class="themesflat-spacer clearfix" data-desktop="0" data-mobile="0" data-smobile="35"></div>
                 </div><!-- /.col -->
 
-                <div class="col span_1_of_3">
-                    <div class="themesflat-spacer clearfix" data-desktop="0" data-mobile="0" data-smobile="0"></div>
-
-                    <div class="widget widget_lastest">
-                        <h2 class="widget-title"><span>RECENT POSTS</span></h2>
-                        <ul class="lastest-posts data-effect clearfix">
-                            <li class="clearfix">
-                                <div class="thumb data-effect-item has-effect-icon">
-                                    <img src="<?= Url::to(['../frontend/web/assets_tamplet/img/news/post-1-65x65.jpg'])?>" alt="Image">
-                                    <div class="overlay-effect bg-color-2"></div>
-                                    <div class="elm-link">
-                                        <a href="page-blog-single.html" class="icon-2"></a>
-                                    </div>
-                                </div>
-                                <div class="text">
-                                    <h3><a href="page-blog-single.html">SMART BUILDING WITH CONCRETE SUSTAINABLE</a></h3>
-                                    <span class="post-date"><span class="entry-date">29 June 2018</span></span>
-                                </div>
-                            </li>
-                            <li class="clearfix">
-                                <div class="thumb data-effect-item has-effect-icon">
-                                    <img src="<?= Url::to(['../frontend/web/assets_tamplet/img/news/post-2-65x65.jpg'])?>" alt="Image">
-                                    <div class="overlay-effect bg-color-2"></div>
-                                    <div class="elm-link">
-                                        <a href="page-blog-single.html" class="icon-2"></a>
-                                    </div>
-                                </div>
-                                <div class="text">
-                                    <h3><a href="page-blog-single.html">HI-TECH WOODEN HOUSE BUILT WITHOUT GLUE</a></h3>
-                                    <span class="post-date"><span class="entry-date">31 June 2018</span></span>
-                                </div>
-                            </li>
-                        </ul>
-                    </div><!-- /.widget_lastest -->
-                </div><!-- /.col -->
+<!--                <div class="col span_1_of_3">-->
+<!--                    <div class="themesflat-spacer clearfix" data-desktop="0" data-mobile="0" data-smobile="0"></div>-->
+<!---->
+<!--                    <div class="widget widget_lastest">-->
+<!--                        <h2 class="widget-title"><span>RECENT POSTS</span></h2>-->
+<!--                        <ul class="lastest-posts data-effect clearfix">-->
+<!--                            <li class="clearfix">-->
+<!--                                <div class="thumb data-effect-item has-effect-icon">-->
+<!--                                    <img src="--><?//= Url::to(['../frontend/web/assets_tamplet/img/news/post-1-65x65.jpg'])?><!--" alt="Image">-->
+<!--                                    <div class="overlay-effect bg-color-2"></div>-->
+<!--                                    <div class="elm-link">-->
+<!--                                        <a href="page-blog-single.html" class="icon-2"></a>-->
+<!--                                    </div>-->
+<!--                                </div>-->
+<!--                                <div class="text">-->
+<!--                                    <h3><a href="page-blog-single.html">SMART BUILDING WITH CONCRETE SUSTAINABLE</a></h3>-->
+<!--                                    <span class="post-date"><span class="entry-date">29 June 2018</span></span>-->
+<!--                                </div>-->
+<!--                            </li>-->
+<!--                            <li class="clearfix">-->
+<!--                                <div class="thumb data-effect-item has-effect-icon">-->
+<!--                                    <img src="--><?//= Url::to(['../frontend/web/assets_tamplet/img/news/post-2-65x65.jpg'])?><!--" alt="Image">-->
+<!--                                    <div class="overlay-effect bg-color-2"></div>-->
+<!--                                    <div class="elm-link">-->
+<!--                                        <a href="page-blog-single.html" class="icon-2"></a>-->
+<!--                                    </div>-->
+<!--                                </div>-->
+<!--                                <div class="text">-->
+<!--                                    <h3><a href="page-blog-single.html">HI-TECH WOODEN HOUSE BUILT WITHOUT GLUE</a></h3>-->
+<!--                                    <span class="post-date"><span class="entry-date">31 June 2018</span></span>-->
+<!--                                </div>-->
+<!--                            </li>-->
+<!--                        </ul>-->
+<!--                </div>-->
 
                 <div class="col span_1_of_3">
                     <div class="themesflat-spacer clearfix" data-desktop="0" data-mobile="35" data-smobile="35"></div>
-
                     <div class="widget widget_tags">
                         <h2 class="widget-title margin-bottom-30"><span>TAGS</span></h2>
                         <div class="tags-list">
@@ -264,7 +272,7 @@ AppAsset::register($this);
                             <a href="#">Commercial</a>
                         </div>
                     </div>
-                </div><!-- /.col -->
+                </div>
 
                 <div class="col span_1_of_3">
                     <div class="themesflat-spacer clearfix" data-desktop="0" data-mobile="35" data-smobile="35"></div>
@@ -362,9 +370,9 @@ AppAsset::register($this);
                         <li class="menu-item">
                             <a href="<?= Url::to(['site/factories'])?>">FACTORIES</a>
                         </li>
-                        <li class="menu-item">
-                            <a href="#">PROJECTS</a>
-                        </li>
+<!--                        <li class="menu-item">-->
+<!--                            <a href="#">PROJECTS</a>-->
+<!--                        </li>-->
 <!--                        <li class="menu-item">-->
 <!--                            <a href="page-testimonial.html">PAGE</a>-->
 <!--                        </li>-->

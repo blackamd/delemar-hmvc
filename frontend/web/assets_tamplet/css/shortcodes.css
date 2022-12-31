@@ -621,7 +621,7 @@
 .themesflat-partner:hover .partner-default { display: none !important;  }
 .themesflat-partner:hover .partner-color { display: block !important; }
 /* Style 1 */
-.themesflat-partner.style-1 .inner { border: 1px solid #f2f2f2; padding: 23px 0px 15px 0px; cursor: pointer; -webkit-transition: all 0.3s ease; -moz-transition: all 0.3s ease; -ms-transition: all 0.3s ease; -o-transition: all 0.3s ease; transition: all 0.3s ease; }
+.themesflat-partner.style-1 .inner { border: 1px solid #f2f2f2; padding: 23px 0px 30px 0px; cursor: pointer; -webkit-transition: all 0.3s ease; -moz-transition: all 0.3s ease; -ms-transition: all 0.3s ease; -o-transition: all 0.3s ease; transition: all 0.3s ease; }
 .themesflat-partner.style-1 .thumb { width: 188px; height: 100px;  }
 /* Style 2 */
 .themesflat-partner.style-2 .thumb {width: 188px; height: 100px; }

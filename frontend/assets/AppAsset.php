@@ -33,6 +33,7 @@ class AppAsset extends AssetBundle
         'web/css/style.css',
     ];
     public $js = [
+
         'web/assets_tamplet/js/jquery.min.js',
         'web/assets_tamplet/js/plugins.js',
         'web/assets_tamplet/js/tether.min.js',
@@ -59,9 +60,7 @@ class AppAsset extends AssetBundle
         'web/includes/rev-slider/js/extensions/revolution.extension.parallax.min.js',
         'web/includes/rev-slider/js/extensions/revolution.extension.slideanims.min.js',
         'web/includes/rev-slider/js/extensions/revolution.extension.video.min.js',
-        'web/assets_tamplet/js/jquery.gomap-1.3.2.min.js',
-        'web/assets_tamplet/js/jquery.hoverdir.js',
-        'web/assets_tamplet/js/jquery-validate.js',
+
 //        'web/assets_tamplet/js/switcher.js',
 
     ];
