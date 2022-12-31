@@ -292,7 +292,7 @@ use yii\helpers\Url;
                                                 <span class="sep-icon-after sep-center sep-solid"></span>
                                             </div>
                                         </div>
-                                        <p class="sub-heading">Delmar's vision is to reach the equilibrium between meeting our customers’ needs for top notch products and maintaining competitive pricing, which is delivered through a professional network of distributors capable of meeting our customers’ needs in a timely manner.</p>
+                                        <p class="sub-heading">Delemar's vision is to reach the equilibrium between meeting our customers’ needs for top notch products and maintaining competitive pricing, which is delivered through a professional network of distributors capable of meeting our customers’ needs in a timely manner.</p>
                                     </div>
                                     <div class="themesflat-spacer clearfix" data-desktop="42" data-mobile="35" data-smobile="35"></div>
                                 </div><!-- /.col-md-12 -->
