@@ -293,7 +293,7 @@
                     map: {
                         options: {
                             zoom: 10,
-                            center: [51.1946026,0.8140602,14.5],
+                            center: [30.0828465,31.031341,5.5],
                             mapTypeId: 'Autora',
                             mapTypeControlOptions: {
                                 mapTypeIds: ['Autora', google.maps.MapTypeId.SATELLITE, google.maps.MapTypeId.HYBRID]

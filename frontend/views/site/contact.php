@@ -72,7 +72,7 @@
                                                         <li class="clearfix">
                                                             <div class="inner">
                                                                 <span class="fa fa-map-marker"></span>
-                                                                <span class="text">100/113 Industrial Area, Alex Desert Road,Giza, Egypt, Zip Code: 12677 </span>
+                                                                <span class="text">Alex Desert road, Smart Village,building B123 (ARC),1ST floor ,unites A106-107,B120-121-122 </span>
                                                             </div>
                                                         </li>
 
@@ -87,6 +87,7 @@
                                                             </div>
                                                         </li>
                                                     </ul>
+                                                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3452.6470744159005!2d31.0208635151158!3d30.075649281870987!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x1315a72dd60dec61!2zMzDCsDA0JzMyLjMiTiAzMcKwMDEnMjMuMCJF!5e0!3m2!1sen!2seg!4v1672669974322!5m2!1sen!2seg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                                                 </div>
                                             </div><!-- /.tab-content -->
                                             <div class="tab-content">
@@ -110,6 +111,7 @@
                                                             </div>
                                                         </li>
                                                     </ul>
+                                                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3452.3958841376616!2d31.03134101511607!3d30.082846481868373!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x8b6e64a8ca28931d!2zMzDCsDA0JzU4LjMiTiAzMcKwMDInMDAuNyJF!5e0!3m2!1sen!2seg!4v1672669857310!5m2!1sen!2seg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                                                 </div>
                                             </div><!-- /.tab-content -->
                                             <div class="tab-content">
@@ -135,12 +137,14 @@
 
 
                                                     </ul>
+                                                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3457.063458547175!2d30.85477732121943!3d29.948853258429978!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1458ff237be71b6b%3A0x9ad6f70a0eb7f384!2sRkw!5e0!3m2!1sen!2seg!4v1672669921806!5m2!1sen!2seg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                                                 </div>
                                             </div><!-- /.tab-content -->
                                         </div>
                                     </div><!-- /.themesflat-tabs -->
                                     <div class="themesflat-spacer clearfix" data-desktop="20" data-mobile="35" data-smobile="35"></div>
-                                    <div class="themesflat-map"></div>
+<!--                                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3452.3958841376616!2d31.03134101511607!3d30.082846481868373!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x8b6e64a8ca28931d!2zMzDCsDA0JzU4LjMiTiAzMcKwMDInMDAuNyJF!5e0!3m2!1sen!2seg!4v1672669521225!5m2!1sen!2seg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>-->
+<!--                                    <div class="themesflat-map"></div>-->
                                 </div><!-- /.col-md-6 -->
                             </div><!-- /.row -->
                             <div class="row">

@@ -189,13 +189,13 @@ AppAsset::register($this);
                                 <li>
                                     <div class="inner">
                                         <span class="fa fa-map-marker"></span>
-                                        <span class="text"><strong>ABOU RAWASH</strong> 100/113 Industrial Area, Alex Desert Road, <span class="sl">Giza, Egypt, Zip Code: 12677</span></span>
+                                        <a href="https://www.google.com/maps?q=30.0828465,31.0335297&z=17&hl=en"><span class="text"><strong>ABOU RAWASH</strong> 100/113 Industrial Area, Alex Desert Road, <span class="sl">Giza, Egypt, Zip Code: 12677</span></span></a>
                                     </div>
                                 </li>
                                 <li>
                                     <div class="inner">
                                         <span class="fa fa-map-marker"></span>
-                                        <span class="text"><strong>6TH OF OCTOBER CITY</strong> Industrial Zone, North Extensions IDG, Plot M17 <span class="sl">Giza, Egypt P.O.BOX 2, Zip Code: 12581</span></span>
+                                        <a href="https://www.google.com/maps/search/rkw/@29.949756988776308,30.8594972486998,17z?hl=en"><span class="text"><strong>6TH OF OCTOBER CITY</strong> Industrial Zone, North Extensions IDG, Plot M17 <span class="sl">Giza, Egypt P.O.BOX 2, Zip Code: 12581</span></span></a>
                                     </div>
                                 </li>
 
