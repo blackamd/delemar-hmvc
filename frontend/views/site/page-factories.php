@@ -26,7 +26,7 @@ use yii\helpers\Url;
                                                             <div class="overlay-effect bg-color-accent"></div>
                                                         </div>
                                                         <div class="text-wrap">
-                                                            <h5 class="heading"><a href="#">ALUMINUM COATING</a></h5>
+                                                            <h5 class="heading"><a href="<?= Url::to(['site/aluminum-coating'])?>">ALUMINIUM COATING</a></h5>
                                                             <p class="letter-spacing-01">Within the Delmar factory is a complete painting line for normal wood colors and a fully [...]</p>
                                                             <div class="elm-readmore">
                                                                 <a href="<?= Url::to(['site/aluminum-coating'])?>">DETAILS</a>
@@ -43,7 +43,7 @@ use yii\helpers\Url;
                                                             <div class="overlay-effect bg-color-accent"></div>
                                                         </div>
                                                         <div class="text-wrap">
-                                                            <h5 class="heading"><a href="#">ALUMINUM DIE SHOP</a></h5>
+                                                            <h5 class="heading"><a href="<?= Url::to(['site/aluminum-die-shop'])?>">ALUMINIUM DIE SHOP</a></h5>
                                                             <p class="letter-spacing-01">Delmar owns and operates a die-cast factory for the production of molds used in the pressing [...]</p>
                                                             <div class="elm-readmore">
                                                                 <a href="<?= Url::to(['site/aluminum-die-shop'])?>">DETAILS</a>
@@ -65,7 +65,7 @@ use yii\helpers\Url;
                                                             <div class="overlay-effect bg-color-accent"></div>
                                                         </div>
                                                         <div class="text-wrap">
-                                                            <h5 class="heading"><a href="#">ALUMINUM PRODUCTION</a></h5>
+                                                            <h5 class="heading"><a href="<?= Url::to(['site/aluminum-production'])?>">ALUMINIUM PRODUCTION</a></h5>
                                                             <p class="letter-spacing-01">Our current production capacity is 25,000 tons annually which is expected to massively increase [...]</p>
                                                             <div class="elm-readmore">
                                                                 <a href="<?= Url::to(['site/aluminum-production'])?>">DETAILS</a>
@@ -82,7 +82,7 @@ use yii\helpers\Url;
                                                             <div class="overlay-effect bg-color-accent"></div>
                                                         </div>
                                                         <div class="text-wrap">
-                                                            <h5 class="heading"><a href="#">PROCESSED GLASS</a></h5>
+                                                            <h5 class="heading"><a href="<?= Url::to(['site/processed-glass'])?>">PROCESSED GLASS</a></h5>
                                                             <p class="letter-spacing-01">Our factory is an iconic facility in the glass industry. The automated glass handling systems [...]</p>
                                                             <div class="elm-readmore">
                                                                 <a href="<?= Url::to(['site/processed-glass'])?>">DETAILS</a>

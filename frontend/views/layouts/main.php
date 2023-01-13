@@ -75,14 +75,6 @@ AppAsset::register($this);
         <header id="site-header">
             <div id="site-header-inner" class="container">
                 <div class="wrap-inner clearfix">
-                    <div id="site-logo" class="clearfix">
-                        <div id="site-log-inner">
-                            <a href="<?= Url::to(['site/index'])?>" rel="home" class="main-logo">
-                                <img src="<?= Url::to(['../frontend/web/assets_tamplet/img/logo-small.png'])?>" alt="DelemarGroup" width="186" height="39" data-retina="<?= Url::to(['../frontend/web/assets_tamplet/img/logo-small@2x.png'])?>" data-width="186" data-height="39">
-                            </a>
-                        </div>
-                    </div><!-- /#site-logo -->
-
                     <div class="mobile-button">
                         <span></span>
                     </div><!-- /.mobile-button -->
@@ -153,6 +145,14 @@ AppAsset::register($this);
                         </ul>
                     </nav><!-- /#main-nav -->
 
+                    <div id="site-logo" class="clearfix">
+                        <div id="site-log-inner">
+                            <a href="<?= Url::to(['site/index'])?>" rel="home" class="main-logo">
+                                <img src="<?= Url::to(['../frontend/web/assets_tamplet/img/logo-small.png'])?>" alt="DelemarGroup" width="186" height="39" data-retina="<?= Url::to(['../frontend/web/assets_tamplet/img/logo-small@2x.png'])?>" data-width="186" data-height="39">
+                            </a>
+                        </div>
+                    </div><!-- /#site-logo -->
+
 <!--                    <div id="header-search">-->
 <!--                        <a href="#" class="header-search-icon">-->
 <!--                                    <span class="search-icon fa fa-search">-->
@@ -189,7 +189,7 @@ AppAsset::register($this);
                                 <li>
                                     <div class="inner">
                                         <span class="fa fa-map-marker"></span>
-                                        <a href="https://www.google.com/maps?q=30.0828465,31.0335297&z=17&hl=en"><span class="text"><strong>ABOU RAWASH</strong> 100/113 Industrial Area, Alex Desert Road, <span class="sl">Giza, Egypt, Zip Code: 12677</span></span></a>
+                                        <a href="https://www.google.com/maps/search/rkw/@29.949756988776308,30.8594972486998,17z?hl=en"><span class="text"><strong>Smart Village</strong> Alex Desert road,building B123 (ARC), 1ST floor,unites A106-107,B120-121-122</span></a>
                                     </div>
                                 </li>
                                 <li>
@@ -198,78 +198,107 @@ AppAsset::register($this);
                                         <a href="https://www.google.com/maps/search/rkw/@29.949756988776308,30.8594972486998,17z?hl=en"><span class="text"><strong>6TH OF OCTOBER CITY</strong> Industrial Zone, North Extensions IDG, Plot M17 <span class="sl">Giza, Egypt P.O.BOX 2, Zip Code: 12581</span></span></a>
                                     </div>
                                 </li>
-
+                                <li>
+                                    <div class="inner">
+                                        <span class="fa fa-map-marker"></span>
+                                        <a href="https://www.google.com/maps?q=30.0828465,31.0335297&z=17&hl=en"><span class="text"><strong>ABOU RAWASH</strong> 100/113 Industrial Area, Alex Desert Road, <span class="sl">Giza, Egypt, Zip Code: 12677</span></span></a>
+                                    </div>
+                                </li>
                                 <li>
                                     <div class="inner">
                                         <span class="fa fa-phone"></span>
-                                        <span class="text">Mobile : (+20) 110 311 1261</span><br>
-                                        <span class="text">Mobile : (+20) 110 311 1262</span><br>
-                                        <span class="text">Mobile : (+20) 110 311 1263</span><br>
+                                        <span class="text">Mobile : (+20) 110 311 1261/2</span><br>
+                                        <span class="text">Mobile : (+20) 110 311 1263/4</span><br>
                                         <span class="text">Telephone : (02) 35394037</span><br>
                                         <span class="text">Telephone : (02) 35394032</span>
                                     </div>
                                 </li>
+                                <li class="margin-top-7">
+                                    <div class="inner">
+                                        <span class=" font-size-14 fa fa-envelope"></span>
+                                        <a href="mailto:info@delemargroup.com"><span class="text">info@delemargroup.com</span></a>
+                                    </div>
+                                </li>
 
-<!--                                <li class="margin-top-7">-->
-<!--                                    <div class="inner">-->
-<!--                                        <span class=" font-size-14 fa fa-envelope"></span>-->
-<!--                                        <span class="text">SUPPORT@NICHE_THEME</span>-->
-<!--                                    </div>-->
-<!--                                </li>-->
                             </ul>
                         </div>
                     </div><!-- /.widget_text -->
                     <div class="themesflat-spacer clearfix" data-desktop="0" data-mobile="0" data-smobile="35"></div>
-                </div><!-- /.col -->
+                </div>
+                <div class="col span_1_of_3">
+                    <div class="themesflat-spacer clearfix" data-desktop="0" data-mobile="35" data-smobile="35"></div>
+                    <div class="widget widget_text">
+                        <div class="textwidget">
+                            <h2 class="widget-title margin-bottom-30"><span>SOCIAL</span></h2>
+                            <ul>
+                                <li>
+                                    <div class="inner">
+                                        <span class="fa fa-linkedin"></span>
+                                        <a href="https://www.linkedin.com/in/delemar-industrial-group-03b2a5260/"><span class="text"><strong>LINKEDIN</strong></span></a>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="inner">
+                                        <span class="fa fa-instagram"></span>
+                                        <a href="https://instagram.com/delemar_group?igshid=YmMyMTA2M2Y="><span class="text"><strong>INSTAGRAM (DELEMAR GROUP)</strong></span></a>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="inner">
+                                        <span class="fa fa-instagram"></span>
+                                        <a href="https://instagram.com/delemar_coating?igshid=YmMyMTA2M2Y="><span class="text"><strong>INSTAGRAM (DELEMAR COATING)</strong></span></a>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="inner">
+                                        <span class="fa fa-instagram"></span>
+                                        <a href="https://instagram.com/delemar_glass?igshid=YmMyMTA2M2Y="><span class="text"><strong>INSTAGRAM (DELEMAR GLASS)</strong></span></a>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="inner">
+                                        <span class="fa fa-instagram"></span>
+                                        <a href="https://instagram.com/delemar_aluminium?igshid=YmMyMTA2M2Y="><span class="text"><strong>INSTAGRAM (DELEMAR ALUMINIUM)</strong></span></a>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="inner">
+                                        <span class="fa fa-facebook-f"></span>
+                                        <a href="https://www.facebook.com/profile.php?id=100086897088906&mibextid=ZbWKwL"><span class="text"><strong>FACEBOOK (DELEMAR GLASS)</strong></span></a>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="inner">
+                                        <span class="fa fa-facebook-f"></span>
+                                        <a href="https://www.facebook.com/profile.php?id=100087172027396&mibextid=ZbWKwL"><span class="text"><strong>FACEBOOK (DELEMAR GROUP)</strong></span></a>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="inner">
+                                        <span class="fa fa-facebook-f"></span>
+                                        <a href="https://m.facebook.com/Delemar/?mibextid=LQQJ4d"><span class="text"><strong>FACEBOOK (DELEMAR ALUMINIUM)</strong></span></a>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="inner">
+                                        <span class="fa fa-facebook-f"></span>
+                                        <a href="https://www.facebook.com/DelemarforAluminiumcoating/?mibextid=LQQJ4d"><span class="text"><strong>FACEBOOK (DELEMAR COATING)</strong></span></a>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
 
-<!--                <div class="col span_1_of_3">-->
-<!--                    <div class="themesflat-spacer clearfix" data-desktop="0" data-mobile="0" data-smobile="0"></div>-->
-<!---->
-<!--                    <div class="widget widget_lastest">-->
-<!--                        <h2 class="widget-title"><span>RECENT POSTS</span></h2>-->
-<!--                        <ul class="lastest-posts data-effect clearfix">-->
-<!--                            <li class="clearfix">-->
-<!--                                <div class="thumb data-effect-item has-effect-icon">-->
-<!--                                    <img src="--><?//= Url::to(['../frontend/web/assets_tamplet/img/news/post-1-65x65.jpg'])?><!--" alt="Image">-->
-<!--                                    <div class="overlay-effect bg-color-2"></div>-->
-<!--                                    <div class="elm-link">-->
-<!--                                        <a href="page-blog-single.html" class="icon-2"></a>-->
-<!--                                    </div>-->
-<!--                                </div>-->
-<!--                                <div class="text">-->
-<!--                                    <h3><a href="page-blog-single.html">SMART BUILDING WITH CONCRETE SUSTAINABLE</a></h3>-->
-<!--                                    <span class="post-date"><span class="entry-date">29 June 2018</span></span>-->
-<!--                                </div>-->
-<!--                            </li>-->
-<!--                            <li class="clearfix">-->
-<!--                                <div class="thumb data-effect-item has-effect-icon">-->
-<!--                                    <img src="--><?//= Url::to(['../frontend/web/assets_tamplet/img/news/post-2-65x65.jpg'])?><!--" alt="Image">-->
-<!--                                    <div class="overlay-effect bg-color-2"></div>-->
-<!--                                    <div class="elm-link">-->
-<!--                                        <a href="page-blog-single.html" class="icon-2"></a>-->
-<!--                                    </div>-->
-<!--                                </div>-->
-<!--                                <div class="text">-->
-<!--                                    <h3><a href="page-blog-single.html">HI-TECH WOODEN HOUSE BUILT WITHOUT GLUE</a></h3>-->
-<!--                                    <span class="post-date"><span class="entry-date">31 June 2018</span></span>-->
-<!--                                </div>-->
-<!--                            </li>-->
-<!--                        </ul>-->
-<!--                </div>-->
-
+                </div>
                 <div class="col span_1_of_3">
                     <div class="themesflat-spacer clearfix" data-desktop="0" data-mobile="35" data-smobile="35"></div>
                     <div class="widget widget_tags">
-                        <h2 class="widget-title margin-bottom-30"><span>TAGS</span></h2>
+                        <h2 class="widget-title margin-bottom-30"><span>FACTORIES</span></h2>
                         <div class="tags-list">
-                            <a href="#">Building</a>
-                            <a href="#">Smart House</a>
-                            <a href="#">Costruction</a>
-                            <a href="#">Villa</a>
-                            <a href="#">Residential</a>
-                            <a href="#">Interior</a>
-                            <a href="#">Resort</a>
-                            <a href="#">Commercial</a>
+                            <a href="<?= Url::to(['site/aluminum-production'])?>">Aluminium Production</a>
+                            <a href="<?= Url::to(['site/aluminum-die-shop'])?>">Aluminium Die Shop</a>
+                            <a href="<?= Url::to(['site/processed-glass'])?>">Processed Glass</a>
+                            <a href="<?= Url::to(['site/aluminum-coating'])?>">Aluminium Service</a>
                         </div>
                     </div>
                 </div>
@@ -278,62 +307,38 @@ AppAsset::register($this);
                     <div class="themesflat-spacer clearfix" data-desktop="0" data-mobile="35" data-smobile="35"></div>
 
                     <div class="widget widget_instagram">
-                        <h2 class="widget-title margin-bottom-30"><span>INSTAGRAM PHOTOS</span></h2>
+                        <h2 class="widget-title margin-bottom-30"><span>PHOTOS</span></h2>
                         <div class="instagram-wrap data-effect clearfix col3 g10">
                             <div class="instagram_badge_image has-effect-icon">
                                 <a href="#" target="_blank" class="data-effect-item">
-                                    <span class="item"><img src="<?= Url::to(['../frontend/web/assets_tamplet/img/instagram/instagram-1-83x83.jpg'])?>" alt="Image" ></span>
+                                    <span class="item"><img src="<?= Url::to(['../frontend/web/assets_tamplet/img/instagram/Secondary vertical logo-01283x83.png'])?>" alt="Image" ></span>
                                     <div class="overlay-effect bg-color-2"></div>
                                     <div class="elm-link">
                                         <span class="icon-3"></span>
                                     </div>
                                 </a>
                             </div>
-
                             <div class="instagram_badge_image has-effect-icon">
                                 <a href="#" target="_blank" class="data-effect-item">
-                                    <span class="item"><img src="<?= Url::to(['../frontend/web/assets_tamplet/img/instagram/instagram-2-83x83.jpg'])?>" alt="Image" ></span>
-                                    <div class="overlay-effect bg-color-2"></div>
-                                    <div class="elm-link">
-                                        <span class="icon-3"></span>
-                                    </div>
-                                </a>
-
-                            </div>
-
-                            <div class="instagram_badge_image has-effect-icon">
-                                <a href="#" target="_blank" class="data-effect-item">
-                                    <span class="item"><img src="<?= Url::to(['../frontend/web/assets_tamplet/img/instagram/instagram-3-83x83.jpg'])?>" alt="Image"></span>
+                                    <span class="item"><img src="<?= Url::to(['../frontend/web/assets_tamplet/img/instagram/Secondary vertical logo83x83.png'])?>" alt="Image" ></span>
                                     <div class="overlay-effect bg-color-2"></div>
                                     <div class="elm-link">
                                         <span class="icon-3"></span>
                                     </div>
                                 </a>
                             </div>
-
                             <div class="instagram_badge_image has-effect-icon">
                                 <a href="#" target="_blank" class="data-effect-item">
-                                    <span class="item"><img src="<?= Url::to(['../frontend/web/assets_tamplet/img/instagram/instagram-4-83x83.jpg'])?>" alt="Image"></span>
+                                    <span class="item"><img src="<?= Url::to(['../frontend/web/assets_tamplet/img/instagram/Secondary vertical logo-0183x83.png'])?>" alt="Image" ></span>
                                     <div class="overlay-effect bg-color-2"></div>
                                     <div class="elm-link">
                                         <span class="icon-3"></span>
                                     </div>
                                 </a>
                             </div>
-
                             <div class="instagram_badge_image has-effect-icon">
                                 <a href="#" target="_blank" class="data-effect-item">
-                                    <span class="item"><img src="<?= Url::to(['../frontend/web/assets_tamplet/img/instagram/instagram-5-83x83.jpg'])?>" alt="Image"></span>
-                                    <div class="overlay-effect bg-color-2"></div>
-                                    <div class="elm-link">
-                                        <span class="icon-3"></span>
-                                    </div>
-                                </a>
-                            </div>
-
-                            <div class="instagram_badge_image has-effect-icon">
-                                <a href="#" target="_blank" class="data-effect-item">
-                                    <span class="item"><img src="<?= Url::to(['../frontend/web/assets_tamplet/img/instagram/instagram-6-83x83.jpg'])?>" alt="Image"></span>
+                                    <span class="item"><img src="<?= Url::to(['../frontend/web/assets_tamplet/img/instagram/Secondary vertical logo-01383x83.png'])?>" alt="Image" ></span>
                                     <div class="overlay-effect bg-color-2"></div>
                                     <div class="elm-link">
                                         <span class="icon-3"></span>
@@ -342,7 +347,7 @@ AppAsset::register($this);
                             </div>
                         </div>
                     </div><!-- /.widget_instagram -->
-                </div><!-- /.col -->
+                </div>
             </div><!-- /.themesflat-row -->
         </div><!-- /#footer-widgets -->
     </footer><!-- /#footer -->

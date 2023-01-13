@@ -26,9 +26,9 @@ use yii\helpers\Url;
                                                <div class="inner">
                                                    <div class="text-wrap">
                                                        <div class="number-wrap">
-                                                           <span class="number" data-speed="2000" data-to="9240" data-inviewport="yes">9240</span><span class="suffix">+</span>
+                                                           <span class="number" data-speed="2000" data-to="44" data-inviewport="yes">44</span><span class="suffix">+</span>
                                                        </div>
-                                                       <h3 class="heading margin-right-18">PROJECT COMPLETED</h3>
+                                                       <h3 class="heading margin-right-18">YEARS OF EXPERIENCES</h3>
                                                    </div>
                                                </div>
                                            </div>
@@ -60,9 +60,9 @@ use yii\helpers\Url;
                                                <div class="inner">
                                                    <div class="text-wrap">
                                                        <div class="number-wrap">
-                                                           <span class="number" data-speed="2000" data-to="725" data-inviewport="yes">725</span><span class="suffix">+</span>
+                                                           <span class="number" data-speed="2000" data-to="9" data-inviewport="yes">9</span><span class="suffix">+</span>
                                                        </div>
-                                                       <h3 class="heading margin-right-8">SATISFIED CLIENTS</h3>
+                                                       <h3 class="heading margin-right-8">FACTORIES</h3>
                                                    </div>
                                                </div>
                                            </div>
@@ -77,7 +77,7 @@ use yii\helpers\Url;
                                                <div class="inner">
                                                    <div class="text-wrap">
                                                        <div class="number-wrap">
-                                                           <span class="number" data-speed="2000" data-to="2984" data-inviewport="yes">2984</span><span class="suffix">+</span>
+                                                           <span class="number" data-speed="2000" data-to="2600" data-inviewport="yes">2600</span><span class="suffix">+</span>
                                                        </div>
                                                        <h3 class="heading margin-right-10">WORKERS EMPLOYED</h3>
                                                    </div>

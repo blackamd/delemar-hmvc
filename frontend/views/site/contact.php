@@ -48,7 +48,7 @@
                                 <div class="col-md-6">
                                     <div class="themesflat-spacer clearfix" data-desktop="0" data-mobile="0" data-smobile="35"></div>
                                     <div class="themesflat-headings style-2 clearfix">
-                                        <h2 class="heading">INFOMATION</h2>
+                                        <h2 class="heading">INFORMATION</h2>
                                         <div class="sep has-width w80 accent-bg clearfix"></div>
                                     </div>
                                     <div class="themesflat-spacer clearfix" data-desktop="36" data-mobile="35" data-smobile="35"></div>
@@ -79,10 +79,9 @@
                                                         <li class="clearfix">
                                                             <div class="inner">
                                                                 <span class="fa fa-phone"></span>
-                                                                <span class="text">Mobile : (+20) 110 311 1261</span><br>
-                                                                <span class="text">Mobile : (+20) 110 311 1262</span><br>
-                                                                <span class="text">Mobile : (+20) 110 311 1263</span><br>
-                                                                <span class="text">Telephone : (02) 35394037</span><br>
+                                                                <span class="text">Mobile : (+20) 110 311 1261/2</span>
+                                                                <span class="text">Mobile : (+20) 110 311 1263/4</span>
+                                                                <span class="text">Telephone : (02) 35394037</span>
                                                                 <span class="text">Telephone : (02) 35394032</span>
                                                             </div>
                                                         </li>
@@ -103,10 +102,9 @@
                                                         <li class="clearfix">
                                                             <div class="inner">
                                                                 <span class="fa fa-phone"></span>
-                                                                <span class="text">Mobile : (+20) 110 311 1261</span><br>
-                                                                <span class="text">Mobile : (+20) 110 311 1262</span><br>
-                                                                <span class="text">Mobile : (+20) 110 311 1263</span><br>
-                                                                <span class="text">Telephone : (02) 35394037</span><br>
+                                                                <span class="text">Mobile : (+20) 110 311 1261/2</span>
+                                                                <span class="text">Mobile : (+20) 110 311 1263/4</span>
+                                                                <span class="text">Telephone : (02) 35394037</span>
                                                                 <span class="text">Telephone : (02) 35394032</span>
                                                             </div>
                                                         </li>
@@ -127,10 +125,9 @@
                                                         <li class="clearfix">
                                                             <div class="inner">
                                                                 <span class="fa fa-phone"></span>
-                                                                <span class="text">Mobile : (+20) 110 311 1261</span><br>
-                                                                <span class="text">Mobile : (+20) 110 311 1262</span><br>
-                                                                <span class="text">Mobile : (+20) 110 311 1263</span><br>
-                                                                <span class="text">Telephone : (02) 35394037</span><br>
+                                                                <span class="text">Mobile : (+20) 110 311 1261/2</span>
+                                                                <span class="text">Mobile : (+20) 110 311 1263/4</span>
+                                                                <span class="text">Telephone : (02) 35394037</span>
                                                                 <span class="text">Telephone : (02) 35394032</span>
                                                             </div>
                                                         </li>
