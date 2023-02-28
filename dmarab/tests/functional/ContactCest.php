@@ -1,8 +1,8 @@
 <?php
 
-namespace frontend\tests\functional;
+namespace dmarab\tests\functional;
 
-use frontend\tests\FunctionalTester;
+use dmarab\tests\FunctionalTester;
 
 /* @var $scenario \Codeception\Scenario */
 

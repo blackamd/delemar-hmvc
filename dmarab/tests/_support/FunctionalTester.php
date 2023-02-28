@@ -1,6 +1,6 @@
 <?php
 
-namespace frontend\tests;
+namespace dmarab\tests;
 
 /**
  * Inherited Methods
