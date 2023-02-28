@@ -10,7 +10,6 @@ use yii\helpers\Url;
         <div id="site-content" class="site-content clearfix">
             <div id="inner-content" class="inner-content-wrap">
                <div class="page-content">
-
                     <!-- ICONBOX -->
                     <div class="row-iconbox">
                         <div class="container">
