@@ -77,8 +77,10 @@ AppAsset::register($this);
                 <div class="wrap-inner clearfix">
                     <div class="mobile-button">
                         <span></span>
-                    </div><!-- /.mobile-button -->
-
+                    </div>
+                    <div id="header-language-en" class="clearfix">
+                        <a href="<?= Url::to(['../dmarab/site/index'])?>"><img src="<?= Url::to(['../frontend/web/assets_tamplet/img/language/egypt.png'])?>" alt="DelemarGroup" width="25" height="25" data-retina="<?= Url::to(['../frontend/web/assets_tamplet/img/language/egypt.png'])?>" data-width="25" data-height="25"></a>
+                    </div>
                     <nav id="main-nav" class="main-nav">
                         <ul id="menu-primary-menu" class="menu">
                             <li class="menu-item menu-item">
@@ -155,10 +157,8 @@ AppAsset::register($this);
 
 <!--                    <div id="header-search">-->
 <!--                        <a href="#" class="header-search-icon">-->
-<!--                                    <span class="search-icon fa fa-search">-->
-<!--                                    </span>-->
+<!--                                    <span class="search-icon fa fa-search"></span>-->
 <!--                        </a>-->
-<!---->
 <!--                        <form role="search" method="get" class="header-search-form" action="#">-->
 <!--                            <label class="screen-reader-text">Search for:</label>-->
 <!--                            <input type="text" value="" name="s" class="header-search-field" placeholder="Search...">-->
