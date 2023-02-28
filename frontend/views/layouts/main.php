@@ -109,10 +109,10 @@ AppAsset::register($this);
                             <li class="menu-item menu-item-has-children">
                                 <a href="<?= Url::to(['site/factories'])?>">FACTORIES</a>
                                 <ul class="sub-menu">
-                                    <li class="menu-item"><a href="<?= Url::to(['site/aluminum-production'])?>">ALUMINUM PRODUCTION</a></li>
-                                    <li class="menu-item"><a href="<?= Url::to(['site/aluminum-die-shop'])?>">ALUMINUM DIE SHOP</a></li>
+                                    <li class="menu-item"><a href="<?= Url::to(['site/aluminum-production'])?>">ALUMINIUM PRODUCTION</a></li>
+                                    <li class="menu-item"><a href="<?= Url::to(['site/aluminum-die-shop'])?>">ALUMINIUM DIE SHOP</a></li>
                                     <li class="menu-item"><a href="<?= Url::to(['site/processed-glass'])?>">PROCESSED GLASS</a></li>
-                                    <li class="menu-item"><a href="<?= Url::to(['site/aluminum-coating'])?>">ALUMINUM SERVICE</a></li>
+                                    <li class="menu-item"><a href="<?= Url::to(['site/aluminum-coating'])?>">ALUMINIUM COATING</a></li>
                                 </ul>
                             </li>
 <!--                            <li class="menu-item menu-item-has-children">-->
@@ -207,10 +207,10 @@ AppAsset::register($this);
                                 <li>
                                     <div class="inner">
                                         <span class="fa fa-phone"></span>
-                                        <span class="text">Mobile : (+20) 110 311 1261/2</span><br>
-                                        <span class="text">Mobile : (+20) 110 311 1263/4</span><br>
-                                        <span class="text">Telephone : (02) 35394037</span><br>
-                                        <span class="text">Telephone : (02) 35394032</span>
+                                        <span class="text">Mobile : (+20) 110 311 1261/2<br>
+                                                        Mobile : (+20) 110 311 1263/4<br>
+                                                        Telephone : (02) 35394037<br>
+                                                        Telephone : (02) 35394032</span>
                                     </div>
                                 </li>
                                 <li class="margin-top-7">

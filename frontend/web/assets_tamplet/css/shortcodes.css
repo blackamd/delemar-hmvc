@@ -267,7 +267,7 @@
 
 /* Carousel Control
 -------------------------------------------------------------- */
-.owl-theme .owl-nav, .owl-theme .owl-dots { display: none; }
+.owl-theme .owl-nav, .owl-theme .owl-dots { /* display: none; */ }
 .has-bullets .owl-theme .owl-dots { display: block; padding-top: 35px; }
 .has-bullets.bullet24 .owl-theme .owl-dots { padding-top: 24px; }
 .has-arrows .owl-theme .owl-nav { display: block; }

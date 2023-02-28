@@ -10,9 +10,9 @@
                         <div class="themesflat-content-box clearfix" data-margin="0 10px 0 43px" data-mobilemargin="0 15px 0 15px">
                             <div class="themesflat-headings style-2 clearfix">
                                 <div class="sup-heading">DELEMAR GROUP</div>
-                                <h2 class="heading font-size-28 line-height-39">ALUMINUM COATING</h2>
+                                <h2 class="heading font-size-28 line-height-39">ALUMINIUM COATING</h2>
                                 <div class="sep has-width w80 accent-bg margin-top-20 clearfix"></div>
-                                <p class="sub-heading margin-top-33 line-height-24">Within the Delmar factory is a complete painting line for normal wood colors and a fully equipped ward for powder coating which provides high protection for aluminum and a wide range for testing colors of certified quality paint. The Qualicoat standard helps architects and building designers choose the correct specification for any powder coated aluminum. The target is to ensure that any aluminum products stand the test of time and provide the maximum value to building owners and inhabitants.</p>
+                                <p class="sub-heading margin-top-33 line-height-24">Delemar company specialized in extrusion and powder coating of aluminum profiles. <br/>Install a new vertical powder coating line. For architectural profiles, different specialized façade system and different industrial uses. <br/> The line supports the company in expanding its production capacity, ensuring the production of 18,000 tons of high-quality coated profiles per year.  <br/> Supplied by International manufacturers this guarantees a production output of about 1500 coated profiles/hour. The line includes a Cascade-Spray type pre-treatment tunnel efficiently with recyclable Eco-friendly Chemicals (New-Tech).</p>
                             </div>
                         </div>
                         <div class="themesflat-spacer clearfix" data-desktop="56" data-mobile="56" data-smobile="56"></div>
@@ -22,22 +22,24 @@
                 </div>
                 <div class="themesflat-spacer clearfix" data-desktop="39" data-mobile="39" data-smobile="39"></div>
                 <div class="flat-content-wrap style-2 clearfix">
-                    <h5 class="title">SERVICE CONSULTANT</h5>
-                    <p>Through our Design-Build service, we provides a single source of responsibility to the client. We work to develop and understand project expectations and then manage those needs with a customized, qualified design team. Innovation should happen throughout a project. To do that, we focus our efforts on each step of every phase to make the entire process smooth and straightforward. Our proactive, collaborative approach is what uncovers unique ideas and opportunities for improvement before the next phase begins.</p>
+                    <h5 class="title">POWDER COATING</h5>
+                    <p>Powder coating booth with self-clean function & recycle system with high transfer efficiency and easy change color. Designed specifically for vertical powder coating of extrusions, this compact booth features automatic guns from Gema Switzerland with advanced Tech and accessories installed on a multi-arm vertical reciprocator. The booth consists of two vertical walls that encompass the path of the overhead conveyor. Powder is applied to both sides of the profiles inside the wall area. Each of the walls is comprised of a rotating belt that is continuously cleaned.</p>
+                    <p>An advanced interface for Smart Factory automation, enabling it to control all the system’s components and automation functions. It also ensures intelligent networking for all application components, providing greater efficiency and manageability of the process. The system is outfitted with a gap control system designed to detect the presence of profiles and turn on the guns only when profiles are in front of the guns, thus reducing the amount of powder used and precise DFT.</p>
+                    <p>The line also includes new generation curing and drying ovens. Innovations within the new curing oven enable an optimization of energy consumption, the separation of the curing zone from the entrance and exit corridors, and the high efficiency combustion chamber to optimize the use of the thermal energy</p>
+                    <p>Unique laboratory equipped with the latest equipment for long-term tests continuously exceeding 84 days from Europe, USA and UK.<br/>Department for Paint-Stripping and De-anodizing for Finishing & Coating any Internal or external defective profiles.<br/>Super high-quality machines for Packing & Wrapping with easy delivery locally or internationally.</p>
                 </div>
                 <div class="themesflat-spacer clearfix" data-desktop="37" data-mobile="35" data-smobile="35"></div>
                 <div class="flat-content-wrap style-2 clearfix">
-                    <div class="item">
+                    <div class="item1">
                         <div class="inner">
                             <div class="themesflat-spacer clearfix" data-desktop="10" data-mobile="10" data-smobile="10"></div>
-                            <h5 class="title">OUR SERVICES INCLUDE:</h5>
-                            <p>We have successfully completed projects in numerous states across the continental United States. Autora Construction Services has a proven track record of:</p>
+                            <h5 class="title">Strengths and Advantages:</h5>
                             <div class="themesflat-spacer clearfix" data-desktop="8" data-mobile="8" data-smobile="8"></div>
                             <div class="themesflat-list has-icon style-1 icon-left size-16 clearfix">
                                 <div class="inner">
                                     <span class="item">
                                         <span class="icon"><i class="fa fa-check-circle"></i></span>
-                                        <span class="text">Interior Design Planning</span>
+                                        <span class="text">Multiple electrostatic spray painting  production lines (Vertical & Horizontal for spraying all types of profiles</span>
                                     </span>
                                 </div>
                             </div><!-- /.themeslat-list -->
@@ -45,7 +47,7 @@
                                 <div class="inner">
                                     <span class="item">
                                         <span class="icon"><i class="fa fa-check-circle"></i></span>
-                                        <span class="text">Colour & Finish Consultations</span>
+                                        <span class="text">Ideal Pre-treament Process with Seaside Specifications with german approved Chemicals</span>
                                     </span>
                                 </div>
                             </div><!-- /.themeslat-list -->
@@ -53,7 +55,7 @@
                                 <div class="inner">
                                     <span class="item">
                                         <span class="icon"><i class="fa fa-check-circle"></i></span>
-                                        <span class="text">Architectural & Custom Lighting</span>
+                                        <span class="text">Ability to spray all types of Powder with Certification</span>
                                     </span>
                                 </div>
                             </div><!-- /.themeslat-list -->
@@ -61,69 +63,47 @@
                                 <div class="inner">
                                     <span class="item">
                                         <span class="icon"><i class="fa fa-check-circle"></i></span>
-                                        <span class="text">Glass & Acrylic Specifications</span>
+                                        <span class="text">The  best and most advanced Painting-laboratory in Egypt</span>
                                     </span>
                                 </div>
                             </div><!-- /.themeslat-list -->
-                        </div>
-                    </div><!-- /.item -->
-                    <div class="item">
-                        <div class="themesflat-spacer clearfix" data-desktop="0" data-mobile="0" data-smobile="35"></div>
-                        <div class="themesflat-content-box clearfix" data-margin="0 0 0 11px" data-mobilemargin="0 0 0 0">
-                            <div class="inner pd35 bg-ffc">
-                                <h5 class="title text-white line-height-24 padding-left-7">THIS AWESOME SERVICE BRINGS FULL INTEREST INFORMATION FOR YOUR PURPOSE</h5>
-                                <div class="themesflat-spacer clearfix" data-desktop="16" data-mobile="16" data-smobile="16"></div>
-                                <div class="button-wrap has-icon icon-right size-14">
-                                    <a href="#" class="themesflat-button bg-white color-333 w100 font-weight-400 no-letter-spacing pd26"><span>Download .PDF <span class="icon"><i class="fa fa-file-pdf-o"></i></span></span></a>
-                                </div><!-- /.button-wrap -->
-                                <div class="themesflat-spacer clearfix" data-desktop="6" data-mobile="6" data-smobile="6"></div>
-                                <div class="button-wrap has-icon icon-right size-14">
-                                    <a href="#" class="themesflat-button bg-white color-333 w100 font-weight-400 no-letter-spacing pd26 "><span> Download .DOC <span class="icon"><i class="fa fa-file-word-o"></i></span></span></a>
+                            <div class="themesflat-list has-icon style-1 icon-left size-16 clearfix">
+                                <div class="inner">
+                                    <span class="item">
+                                        <span class="icon"><i class="fa fa-check-circle"></i></span>
+                                        <span class="text">Powder coating booth with self-clean function and easy color change</span>
+                                    </span>
                                 </div>
-
+                            </div>
+                            <div class="themesflat-list has-icon style-1 icon-left size-16 clearfix">
+                                <div class="inner">
+                                    <span class="item">
+                                        <span class="icon"><i class="fa fa-check-circle"></i></span>
+                                        <span class="text">Super high-quality machines for Packing & Wrapping with easy-express receiving and delivery locally or internationally</span>
+                                    </span>
+                                </div>
+                            </div>
+                            <div class="themesflat-list has-icon style-1 icon-left size-16 clearfix">
+                                <div class="inner">
+                                    <span class="item">
+                                        <span class="icon"><i class="fa fa-check-circle"></i></span>
+                                        <span class="text">Ability to Paint-Stripping and De-anodizing</span>
+                                    </span>
+                                </div>
+                            </div>
+                            <div class="themesflat-list has-icon style-1 icon-left size-16 clearfix">
+                                <div class="inner">
+                                    <span class="item">
+                                        <span class="icon"><i class="fa fa-check-circle"></i></span>
+                                        <span class="text">All raw materials are internationally approved from Qualicoat with the best quality</span>
+                                    </span>
+                                </div>
                             </div>
                         </div>
-                    </div>
+                    </div><!-- /.item -->
                 </div>
                 <div class="themesflat-spacer clearfix" data-desktop="37" data-mobile="35" data-smobile="35"></div>
-                <div class="flat-content-wrap style-2 clearfix">
-                    <h5 class="title no-letter-spacing">CONTACT US FOR DESIGN-BUILD SERVICES TODAY</h5>
-                    <div class="themesflat-spacer clearfix" data-desktop="27" data-mobile="27" data-smobile="27"></div>
-                    <div class="themesflat-tabs style-2 title-w170 clearfix">
-                        <ul class="tab-title clearfix ">
-                            <li class="item-title active">
-                                <span class="inner">Our focus</span>
-                            </li>
-                            <li class="item-title">
-                                <span class="inner">Dedicated</span>
-                            </li>
-                            <li class="item-title">
-                                <span class="inner">Committed</span>
-                            </li>
-                        </ul>
 
-                        <div class="tab-content-wrap clearfix">
-                            <div class="tab-content">
-                                <div class="item-content">
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-                                    <p> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.</p>
-                                </div>
-                            </div><!-- /.tab-content -->
-                            <div class="tab-content">
-                                <div class="item-content">
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-                                    <p> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.</p>
-                                </div>
-                            </div><!-- /.tab-content -->
-                            <div class="tab-content">
-                                <div class="item-content">
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-                                    <p> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.</p>
-                                </div>
-                            </div><!-- /.tab-content -->
-                        </div><!-- /.tab-content-wrap -->
-                    </div><!-- /.themesflat-tabs -->
-                </div>
                 <div class="themesflat-spacer clearfix" data-desktop="80" data-mobile="60" data-smobile="60"></div>
             </div>
         </div>

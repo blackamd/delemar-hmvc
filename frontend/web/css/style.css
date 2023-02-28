@@ -818,7 +818,7 @@ body.page #main-content { padding-top: 0; padding-bottom: 0; }
 
 /* Widget instagram */
 .widget.widget_instagram .instagram-wrap.col3 { margin: 0px -4px; }
-.widget.widget_instagram .instagram-wrap.col3 > .instagram_badge_image { width: 33.333%; float: left; height: auto; }
+.widget.widget_instagram .instagram-wrap.col3 > .instagram_badge_image { width: 25%; float: left; height: auto; }
 .widget.widget_instagram .instagram-wrap.g10 .instagram_badge_image { padding: 0px 5px; margin: 0 0 10px 0px; }
 .widget.widget_instagram .instagram_badge_image a { position: relative; display: block; }
 
@@ -902,6 +902,7 @@ body.page #main-content { padding-top: 0; padding-bottom: 0; }
    font-family: 'Montserrat', sans-serif;
    font-size: 12px;
    color: rgba(255,255,255,0.8);
+   display: block;
    /*line-height: 14px; */
    overflow: hidden; }
 #footer-widgets .widget.widget_text span.sl { text-transform: uppercase; }

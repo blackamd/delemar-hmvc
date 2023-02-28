@@ -15,9 +15,9 @@ use yii\helpers\Url;
                         <div class="themesflat-content-box clearfix" data-margin="0 10px 0 43px" data-mobilemargin="0 15px 0 15px">
                             <div class="themesflat-headings style-2 clearfix">
                                 <div class="sup-heading">DELEMAR GROUP</div>
-                                <h2 class="heading font-size-28 line-height-39">ALUMINUM PRODUCTION</h2>
+                                <h2 class="heading font-size-28 line-height-39">ALUMINIUM PRODUCTION</h2>
                                 <div class="sep has-width w80 accent-bg margin-top-20 clearfix"></div>
-                                <p class="sub-heading margin-top-33 line-height-24">Our current production capacity is 25,000 tons annually which is expected to massively increase upon the completion of our three new factories within the next 24 months. 80% of our production is consumed in the local market and the remaining 20% are exported to our clients in Europe, Africa, and the Middle East since we meet the standards and quality certifications for exporting aluminum globally. </p>
+                                <p class="sub-heading margin-top-33 line-height-24">Our current production capacity is 25,000 tons annually which is expected to massively increase upon the completion of our three new factories within the next 24 months. 80% of our production is consumed in the local market and the remaining 20% are exported to our clients in Europe, Africa, and the Middle East since we meet the standards and quality certifications for exporting aluminium globally. </p>
                             </div>
                         </div>
                         <div class="themesflat-spacer clearfix" data-desktop="56" data-mobile="56" data-smobile="56"></div>
@@ -27,9 +27,26 @@ use yii\helpers\Url;
                 </div>
                 <div class="themesflat-spacer clearfix" data-desktop="39" data-mobile="39" data-smobile="39"></div>
                 <div class="flat-content-wrap style-2 clearfix">
-                    <h5 class="title">ALUMINUM PRODUCTION</h5>
-                    <p>Because we have access to a large number of extrusion presses (from light to very heavy), we can almost always be of service to you! We select the optimum extrusion press for each profile so that you always have the best conditions at Delemar Group!</p>
+                    <h5 class="title">ALUMINIUM EXTRUSION</h5>
+                    <p>Delmar owns 5 extrusion press machines from topnotch companies with a production capacity of 2500 tons per month. The aluminum production process begins with aluminum cylinders passing through heating furnaces till they reach the required temperature for shaping. The hydraulic pressing machine piston pushes the heated aluminum through the forming die, and the aluminum is pressed after it has acquired the desired shape. Lastly, the aluminum exits the die hole in the form of sectors, which are cut automatically, cooled, mechanically drawn, and then recut as per required lengths. </p>
                 </div>
+                <div class="themesflat-spacer clearfix" data-desktop="39" data-mobile="39" data-smobile="39"></div>
+                <div class="flat-content-wrap style-2 clearfix">
+                    <h5 class="title">SURFACE TREAMTMENT</h5>
+                    <p>Delmar owns a full-fledged surface treatment facility that executes the latest types of surface treatments such as anodizing and cathode and electrostatic paint</p>
+                </div>
+                <div class="themesflat-spacer clearfix" data-desktop="39" data-mobile="39" data-smobile="39"></div>
+                <div class="flat-content-wrap style-2 clearfix">
+                    <h5 class="title">PACKAGING DEPARTMENT</h5>
+                    <p>The packing process is conducted based on global standards and depends on the product type. We provide three types of packaging:
+                    <ul>
+                        <li>- Spiral Packaging
+                        <li>- Carton
+                        <li>- Shrink Film
+                    </ul>
+                    </p>
+                </div>
+
                 <!-- ICONBOX -->
                 <div class="row-iconbox">
                     <div class="container">

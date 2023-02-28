@@ -97,7 +97,7 @@ use yii\helpers\Url;
                                         </div><!-- /.content-list -->
                                         <div class="themesflat-spacer clearfix" data-desktop="42" data-mobile="35" data-smobile="35"></div>
                                         <div class="elm-button">
-                                            <a href="<?= Url::to(['site/page-about'])?>"  class="themesflat-button bg-white">ابقى على تواصل</a>
+                                            <a href="<?= Url::to(['site/contact'])?>"  class="themesflat-button bg-white">ابقى على تواصل</a>
                                         </div>
                                     </div><!-- /.themesflat-content-box -->
                                     <div class="themesflat-spacer clearfix" data-desktop="75" data-mobile="60" data-smobile="60"></div>
